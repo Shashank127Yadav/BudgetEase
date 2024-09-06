@@ -1,7 +1,7 @@
 const account1 = {
   owner: "MS Dhoni",
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
-  interestRate: 1.2, // %
+  interestRate: 1.2, 
   pin: 7,
 
   movementsDates: [
@@ -15,7 +15,7 @@ const account1 = {
     "2020-08-01T10:51:36.790Z",
   ],
   currency: "INR",
-  locale: "hi-IN", // de-DE
+  locale: "hi-IN", 
 };
 
 const account2 = {
